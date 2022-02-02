@@ -18,4 +18,5 @@ for employee in employee_file:
     print("Bonus:",f"{bonus:<,.2f}")
     print("Total pay:",f"{total_pay:<,.2f}")
 
+    print("")
     input("Press enter to continue: ")
