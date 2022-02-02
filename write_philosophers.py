@@ -14,7 +14,7 @@ def add_my_name():
 
     outfile.write("Andrew Buenavista" + '\n')
 
-    outfile.close()
+    outfile.close() 
 
 main()
 add_my_name()
